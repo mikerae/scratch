@@ -1,4 +1,4 @@
 # A scratch repo on GitHub.com
 
-## Caption Change
-What a nice Caption! I like it !
+## Caption Conflict in Branch: mikerae-conflict
+Oh No! We have a conflict in Branch: mikerae-conflict
