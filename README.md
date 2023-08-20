@@ -1,4 +1,4 @@
 # A scratch repo on GitHub.com
 
-## Caption Conflict in Branch: mikerae-conflict1
-This is NUTS!
+## Caption Change in mikerae-modify-content
+Here is a nother change. I like this one better!
